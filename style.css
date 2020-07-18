@@ -1,0 +1,28 @@
+.image {
+    background-image: url(images/MIT\ background.png);
+    background-size: 45%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode: overlay;
+}
+
+table {
+    width: 100%;
+    border: 2px solid rgb(151, 52, 52);
+    text-align: center;
+}
+
+h1,
+h2 {
+    position: relative;
+    color: rgb(151, 52, 52);
+}
+
+th,
+td {
+    position: relative;
+    text-align: center;
+    padding: 15px;
+}
